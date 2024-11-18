@@ -54,7 +54,7 @@
     "address": "1.1.2",
     "browserslist": "4.8.2",
     "chalk": "3.0.0",
-    "cross-spawn": "7.0.1",
+    "cross-spawn": "7.0.5",
     "detect-port-alt": "1.1.6",
     "escape-string-regexp": "2.0.0",
     "filesize": "6.0.1",
